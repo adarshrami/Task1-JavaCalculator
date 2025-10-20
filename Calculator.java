@@ -1,5 +1,3 @@
-package com.task1;
-
 import java.util.Scanner;
 
 public class Calculator {
@@ -73,4 +71,5 @@ public class Calculator {
         }
         sc.close();
     }
+
 }
