@@ -11,8 +11,8 @@ This project is a simple console-based calculator developed in Java for **Task 1
 - Loop-driven interface for continuous calculations until user exits
 
 ## 🛠️ Technologies Used
-- Java (JDK 8 or above)
-- IntelliJ CE
+- JDK 21
+- IntelliJ
 
 ## 📥 How to Run
 1. Open terminal and navigate to the project directory.
