@@ -12,7 +12,7 @@ This project is a simple console-based calculator developed in Java for **Task 1
 
 ## 🛠️ Technologies Used
 - JDK 21
-- IntelliJ
+- IntelliJ IDEA
 
 ## 📥 How to Run
 1. Open terminal and navigate to the project directory.
